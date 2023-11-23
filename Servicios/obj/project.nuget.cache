@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPrPf864UzLV0IVBI3866MOWVW8grZyUla4ruYJ/JgmM4Lz2M67Zcs581ggSeCKlv/Y0eJ9SSIofcXRABQq7Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Servicios\\Servicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC-SOPORTE1A\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC-SOPORTE1A\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

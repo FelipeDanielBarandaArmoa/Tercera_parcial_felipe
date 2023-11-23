@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Conexiones\" />
+    <None Remove="Datos\" />
+    <None Remove="Modelos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Conexiones\" />
+    <Folder Include="Datos\" />
+    <Folder Include="Modelos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Npgsql" Version="7.0.4" />
+  </ItemGroup>
+</Project>

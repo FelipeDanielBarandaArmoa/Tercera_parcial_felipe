@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vvSaEimZVhP2VkFYECyolM30GpsyLssx10VxrWEGo0wnF4D8UxKxJ8RbmJU2w9dww0BIvCQbQ6qUFnxstJy29w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Infraestructura\\Infraestructura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC-SOPORTE1A\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC-SOPORTE1A\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

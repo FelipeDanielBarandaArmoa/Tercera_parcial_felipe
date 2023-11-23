@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\OptativoApiNet7\\OptativoApiNet7.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Infraestructura\\Infraestructura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Infraestructura\\Infraestructura.csproj",
+        "projectName": "Infraestructura",
+        "projectPath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Infraestructura\\Infraestructura.csproj",
+        "packagesPath": "C:\\Users\\PC-SOPORTE1A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Infraestructura\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC-SOPORTE1A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\OptativoApiNet7\\OptativoApiNet7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\OptativoApiNet7\\OptativoApiNet7.csproj",
+        "projectName": "OptativoApiNet7",
+        "projectPath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\OptativoApiNet7\\OptativoApiNet7.csproj",
+        "packagesPath": "C:\\Users\\PC-SOPORTE1A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\OptativoApiNet7\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC-SOPORTE1A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Servicios\\Servicios.csproj": {
+                "projectPath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Servicios\\Servicios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Servicios\\Servicios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Servicios\\Servicios.csproj",
+        "projectName": "Servicios",
+        "projectPath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Servicios\\Servicios.csproj",
+        "packagesPath": "C:\\Users\\PC-SOPORTE1A\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Servicios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC-SOPORTE1A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Infraestructura\\Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\PC-SOPORTE1A\\Downloads\\Tarea_Personas_Ciudades-master\\Infraestructura\\Infraestructura.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
